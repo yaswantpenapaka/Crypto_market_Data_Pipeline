@@ -41,7 +41,7 @@ Add a cron job (Linux/Mac) or Task Scheduler entry (Windows) that runs
 `append_to_history` function already handles adding to the existing
 file rather than overwriting it.
 
-## Resume bullet points (pick 2–3)
+## Quick Overview
 - Built a Python ETL pipeline that pulls live market data from a REST
   API, cleans and validates the response, and appends it to a
   time-stamped historical dataset
